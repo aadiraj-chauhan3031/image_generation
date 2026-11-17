@@ -163,10 +163,11 @@ def annotate_model(img6_path):
     def span_mm(centre):
         cx, cy = centre
         pts = []
-        for x in range(max(0, cx-25), min(w, cx+25)):
-            for y in range(max(0, cy-25), min(h, cy+25)):
+        for x in range(max(0, cx-40), min(w, cx+40)):
+            for y in range(max(0, cy-40), min(h, cy+40)):
                 r, g, b = pixels[x, y][:3]
-                if b > 150 and r > 150 and g > 140 and (r - b) < 60:
+                # cool-bright (diamond/metal) OR any near-white sparkle pixel
+                if (b > 130 and r > 130 and g > 120 and (r - b) < 70) or (r > 210 and g > 210 and b > 210):
                     pts.append((x, y))
         if not pts:
             return None, None
