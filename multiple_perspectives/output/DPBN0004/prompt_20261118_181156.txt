@@ -1,0 +1,33 @@
+You are given two sets of images:
+1. FIRST IMAGE: A lifestyle photograph of a model's wrist wearing a gold bracelet with coloured gemstones.
+2. REMAINING IMAGES: Multiple perspectives of a different bracelet -- our product.
+
+TASK: Recreate the first image exactly, but replace the bracelet on the model's wrist with our product bracelet shown in the remaining reference images.
+
+OUR PRODUCT:
+A rigid hinged oval bangle in polished 18K white gold with a box clasp.
+
+SCALE IS CRITICAL — the entire bangle is SMALL relative to the wrist:
+- The bangle inner oval is only 53 x 45 mm — it fits snugly around the wrist like a standard bracelet
+- Each halo station is only 9.70 mm wide — roughly the width of a pencil eraser
+- The 7 stations together span about 68 mm total across the front of the wrist
+- The main round brilliant diamond in each station is only 7.19 mm in diameter — smaller than a shirt button
+- These stones must look DELICATE and PETITE on the wrist, NOT bold or oversized
+
+Design: SEVEN identical halo stations in an unbroken row along the front arc:
+- Each station: one round brilliant diamond (7.19 mm) in four-claw setting, surrounded by a cushion-shaped pave halo of 16 tiny round diamonds (1.49–2.21 mm), forming a soft cushion-square unit of ~9.70 mm
+- The stations sit side-by-side touching each other
+- The back half is a plain polished band narrowing as it goes around, with a hinge and box clasp
+- The bangle is completely rigid
+
+IMPORTANT: In the final image the bracelet should look proportionate and delicate on the wrist — the kind of fine jewellery piece that sits quietly on the wrist, not a statement piece with oversized stones.
+
+PRESERVE from the original model image:
+- Wrist pose, angle, skin tone, and overall composition
+- Warm editorial lighting, shadows, and bokeh background
+
+REPLACE only the existing bracelet with our product. It should sit naturally on the wrist in the same position.
+
+CRITICAL — stone sizing: render all diamonds true to their stated mm dimensions. Do NOT enlarge or exaggerate any stone. The stones should look delicate and proportionate on the wrist, not oversized.
+
+Style: photorealistic high-end luxury jewellery editorial, 4K, sharp focus on diamonds and metal.

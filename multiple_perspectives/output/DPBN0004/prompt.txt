@@ -1,0 +1,26 @@
+You are given two sets of images:
+1. FIRST IMAGE: A lifestyle photograph of a model's wrist wearing a gold bracelet with coloured gemstones.
+2. REMAINING IMAGES: Multiple perspectives of a different bracelet -- our product.
+
+TASK: Recreate the first image exactly, but replace the bracelet on the model's wrist with our product bracelet shown in the remaining reference images.
+
+OUR PRODUCT:
+A rigid hinged oval bangle in polished 18K white gold with a box clasp.
+
+Across the FRONT it carries SEVEN identical halo stations in an unbroken row, each touching the next so the front reads as a continuous band of light.
+
+Every station is built the same way:
+- ONE large round brilliant diamond, 7.19 mm diameter x 4.21 mm deep, held by four chunky claws
+- Surrounded by a CUSHION-shaped halo (soft square with rounded corners, ~9.70 mm per unit) made up of 16 small round pave diamonds in 4 sizes:
+    4 stones x 2.21 mm, 8 stones x ~1.60 mm, 4 stones x 1.49 mm (approximate per station)
+- Total stone count: 238 round diamonds across 7 stations
+
+The back half is a plain polished band narrowing as it goes around, with a hinge on one side and a box clasp with safety catch on the other. Completely rigid -- does not flex or drape.
+
+PRESERVE from the original model image:
+- Wrist pose, angle, skin tone, and overall composition
+- Warm editorial lighting, shadows, and bokeh background
+
+REPLACE only the existing bracelet with our product. It should sit naturally on the wrist in the same position.
+
+Style: photorealistic high-end luxury jewellery editorial, 4K, sharp focus on diamonds and metal.

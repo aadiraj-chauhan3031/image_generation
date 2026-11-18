@@ -1,0 +1,22 @@
+You are given two sets of images:
+1. FIRST IMAGE: A lifestyle photograph of a model's wrist wearing a gold bracelet with coloured gemstones.
+2. REMAINING IMAGES: Multiple perspectives of a different bracelet — our product.
+
+TASK: Recreate the first image exactly, but replace the bracelet on the model's wrist with our product bracelet shown in the remaining reference images.
+
+OUR PRODUCT — open-ended bangle in polished white gold / platinum:
+- Slim, perfectly round wire cuff with a gap at the top
+- At each open end sits one diamond in a minimal 4-prong setting:
+  - Baguette-cut diamond: 3.0 mm wide × 6.0 mm tall × 1.9 mm deep — keep it SMALL and delicate
+  - Baguette-cut diamond: 3.0 mm wide × 6.0 mm tall × 1.9 mm deep — keep it SMALL and delicate
+- The diamonds are small accent stones — do NOT exaggerate their size
+
+PRESERVE from the original model image:
+- Wrist pose, angle, skin tone, and overall composition
+- Warm editorial lighting, shadows, and bokeh background
+
+REPLACE only:
+- The existing bracelet → swap with our white gold open bangle
+- The bangle sits naturally on the wrist; both diamond ends visible at the gap
+
+Style: photorealistic high-end jewellery editorial, 4K, sharp focus on diamonds and wire.
