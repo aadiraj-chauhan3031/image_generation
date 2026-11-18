@@ -1,0 +1,27 @@
+You are given two sets of images:
+1. FIRST IMAGE: A lifestyle photograph of a model's wrist wearing a gold bracelet with coloured gemstones.
+2. REMAINING IMAGES: Multiple perspectives of a different bracelet -- our product.
+
+TASK: Recreate the first image exactly, but replace the bracelet on the model's wrist with our product bracelet shown in the remaining reference images.
+
+OUR PRODUCT:
+Hinged oval bangle in polished white gold / platinum:
+- Full-closure oval bangle with a hidden push-lock hinge on the side
+- 7 round brilliant-cut diamond stations arranged along the TOP ARC of the bangle
+- Each station: round brilliant center stone in a square cushion-shaped halo of micro-pavé diamonds
+- Center station diamond: 7.81 mm diameter — about the size of a pencil eraser tip, NOT large
+- Each halo station outer size: 9.70 mm × 9.70 mm
+- EXACTLY 7 stations — count: one, two, three, four, five, six, seven. No more, no less.
+- The halo band occupies only the top ~40% arc of the bangle; the lower arc is a plain polished band
+- Keep ALL diamonds true to their stated mm size — delicate, fine jewellery proportions
+- The bangle sits horizontally across the wrist, halo arc facing upward toward the viewer
+
+PRESERVE from the original model image:
+- Wrist pose, angle, skin tone, and overall composition
+- Warm editorial lighting, shadows, and bokeh background
+
+REPLACE only the existing bracelet with our product. It should sit naturally on the wrist in the same position.
+
+CRITICAL — stone sizing: render all diamonds true to their stated mm dimensions. Do NOT enlarge or exaggerate any stone. The stones should look delicate and proportionate on the wrist, not oversized.
+
+Style: photorealistic high-end luxury jewellery editorial, 4K, sharp focus on diamonds and metal.
